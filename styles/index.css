@@ -1,0 +1,116 @@
+.navbarmenu a:hover,
+.navbarmenu .active > a,
+.navbarmenu li:hover > a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+}
+
+.navbarmenu a:hover i,
+.navbarmenu .active > a i,
+.navbarmenu li:hover > a i {
+  color: #149ddd;
+}
+.navbarmenu2 {
+  color: #149ddd;
+}
+
+#bg-photo {
+  background: url("../assets/background.jfif");
+  background-size: cover;
+}
+
+.font {
+  margin: 0 0 10px 0;
+  font-size: 78px;
+  font-weight: 700;
+  line-height: 56px;
+  padding: 20;
+  text-align: center;
+}
+
+.font-smaller {
+  margin: 0 0 10px 0;
+  font-size: 50px;
+  font-weight: 450;
+  line-height: 26px;
+  padding: 20;
+  text-align: center;
+}
+
+.font-smaller2 {
+  margin: 0 0 10px 0;
+  font-size: 30px;
+  font-weight: 450;
+  line-height: 26px;
+  padding: 20;
+  text-align: center;
+}
+
+.mgtop {
+  margin-top: -60px;
+  border-radius: 20px;
+  background-color: grey;
+}
+
+.bg-neutral {
+  background-color: #253d5b;
+}
+
+.font3 {
+  margin: 0 0 10px 0;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 40px;
+  padding: 20;
+}
+
+.font4 {
+  margin: 0 0 10px 0;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 56px;
+  padding: 20;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .mobile_menu {
+    width: 100%;
+  }
+}
+
+.font5 {
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 40px;
+  padding: 20;
+}
+
+.imagestyle{
+  width: 300;
+  height: 500;
+}
+
+.imagestyle2{
+  width: 1000;
+  height: 600;
+}
+
+.font10 {
+  margin: 0 0 10px 0;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 56px;
+  padding: 10;
+  
+}
+
+.imagestyle3{
+  width: 300;
+  height: 400;
+}
